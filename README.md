@@ -1,2 +1,2 @@
 # fitnessTracker
-**Spring MVC project**
+_**Spring MVC project**_
